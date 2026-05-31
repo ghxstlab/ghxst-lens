@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#050812</color>
+    <color name="ghxst_background">#050812</color>
+    <color name="ghxst_surface">#0B1020</color>
+    <color name="ghxst_text_primary">#F5F7FF</color>
+    <color name="ghxst_text_secondary">#A8B3CF</color>
+    <color name="ghxst_accent">#7C5CFF</color>
+</resources>

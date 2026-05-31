@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer lens ring -->
+    <path
+        android:pathData="M54,18a36,36 0,1 0,0.1 0M54,25a29,29 0,1 1,-0.1 0"
+        android:fillType="evenOdd"
+        android:fillColor="#67E8F9" />
+
+    <!-- Inner dark glass -->
+    <path
+        android:pathData="M54,30a24,24 0,1 0,0.1 0"
+        android:fillColor="#07111F" />
+
+    <!-- Aperture blades -->
+    <path android:fillColor="#22C55E" android:pathData="M54,31L72,42L58,50L42,44z" />
+    <path android:fillColor="#0EA5E9" android:pathData="M75,47L70,68L58,55L60,39z" />
+    <path android:fillColor="#6366F1" android:pathData="M64,75L42,75L51,59L67,54z" />
+    <path android:fillColor="#67E8F9" android:pathData="M35,69L28,50L47,54L58,66z" />
+    <path android:fillColor="#14B8A6" android:pathData="M31,42L48,31L49,50L40,63z" />
+
+    <!-- Lens core -->
+    <path
+        android:pathData="M54,42a12,12 0,1 0,0.1 0"
+        android:fillColor="#020617" />
+    <path
+        android:pathData="M54,47a7,7 0,1 0,0.1 0"
+        android:fillColor="#67E8F9" />
+
+    <!-- Ghost signal dot -->
+    <path
+        android:pathData="M78,27a5,5 0,1 0,0.1 0"
+        android:fillColor="#22C55E" />
+</vector>

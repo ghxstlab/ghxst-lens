@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GHXST Lens</string>
+    <string name="app_tagline">Low-latency Android camera for OBS</string>
+    <string name="notification_channel_name">GHXST Lens Stream</string>
+    <string name="notification_channel_description">Camera streaming status and controls</string>
+    <string name="stream_notification_title">GHXST Lens</string>
+    <string name="stream_notification_text">Camera stream is running</string>
+</resources>
